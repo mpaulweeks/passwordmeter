@@ -25,7 +25,6 @@ test_dependencies = [
 ]
 
 dependencies = [
-  'distribute           >= 0.6.24',
   'asset                >= 0.6.1',
 ]
 
